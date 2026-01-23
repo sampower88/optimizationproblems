@@ -26,3 +26,12 @@ This site is maintained by Paata Ivanisvili and Terence Tao.
 ## Related sites
 
 - [Leaps in Bounds](https://leapsinbounds.org/) - a repository of progress on mathematical unknowns
+- [Game of Sloanes](https://github.com/gnikylime/GameofSloanes) - a repository of progress on best known spherep packings in complex projective space
+- [Code Tables](https://www.codetables.de/) - a repository of best known error-correcting codes
+- [Spherical codes](https://www.spherical-codes.org/) - A table of spherical codes, maintained by Henry Cohn
+- [Narrow admissible tuples](https://math.mit.edu/~primegaps/) - a repository of narrow admissible tuples, maintained by Andrew Sutherland
+- [manYPoints](https://manypoints.org/Info.aspx) - challenges to find curves over finite fields with many points
+- [RakeSearch](https://github.com/sirzooro/RakeSearch) - searching for diagonal Latin squares
+- [CayleyPy Pancake sorting](https://www.kaggle.com/competitions/CayleyPy-pancake/overview) - efficient sorting algorithms, corresponding to finding efficient paths in a Cayley graph
+- [Al Zimmerman's programming challenges](http://azspcs.com/) - a repository of programming challenges, some of which have a mathematical flavor
+- [Index of Mathematical Databases](https://mathbases.org/) - a large collection of mathematical databases
