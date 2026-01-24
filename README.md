@@ -12,7 +12,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | ------ | ----------- | ---------------- | ---------------- |
 | [1](https://teorth.github.io/optimizationproblems/constants/1.html) | Sidon set autocorrelation constant | 1.2802 | 1.5029 |
 | [2](https://teorth.github.io/optimizationproblems/constants/2.html) | Erdős minimum overlap constant | 0.379005 | 0.380876 |
-| [3](https://teorth.github.io/optimizationproblems/constants/3.html) | A sum-difference constant | 1.173077 | 1.33333 |
+| [3](https://teorth.github.io/optimizationproblems/constants/3.html) | Gyamarti-Hennecart-Ruzsa sum-difference constant | 1.173077 | 1.33333 |
 | [4](https://teorth.github.io/optimizationproblems/constants/4.html) | Cap set constant | 0.724851 | 0.782597 |
 | [5](https://teorth.github.io/optimizationproblems/constants/5.html) | A Sidon set constant | 0 | 0.97633 |
 | [6](https://teorth.github.io/optimizationproblems/constants/6.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
@@ -22,6 +22,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | [10](https://teorth.github.io/optimizationproblems/constants/10.html) | The real Grothendieck constant | 1.67696 | 1.782214 |
 | [11](https://teorth.github.io/optimizationproblems/constants/11.html) | The $L^1$ Poincaré constant on the Hamming cube | $\sqrt{\pi/2}$ | $\pi/2$ - 0.00013 |
 | [12](https://teorth.github.io/optimizationproblems/constants/12.html) | The Beardwood–Halton–Hammersley constant | 0.6277 | 0.90304 |
+| [13](https://teorth.github.io/optimizationproblems/constants/13.html) | The arithmetic sums-differences constant | >1.77898 | 1.83333 |
 
 
 ## Maintainers
@@ -31,7 +32,7 @@ This site is maintained by Paata Ivanisvili and Terence Tao.
 ## Related sites
 
 - [Leaps in Bounds](https://leapsinbounds.org/) - a repository of progress on mathematical unknowns
-- [Game of Sloanes](https://github.com/gnikylime/GameofSloanes) - a repository of progress on best known spherep packings in complex projective space
+- [Game of Sloanes](https://github.com/gnikylime/GameofSloanes) - a repository of progress on best known sphere packings in complex projective space
 - [Code Tables](https://www.codetables.de/) - a repository of best known error-correcting codes
 - [Spherical codes](https://www.spherical-codes.org/) - A table of spherical codes, maintained by Henry Cohn
 - [Narrow admissible tuples](https://math.mit.edu/~primegaps/) - a repository of narrow admissible tuples, maintained by Andrew Sutherland
