@@ -24,6 +24,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | [12](https://teorth.github.io/optimizationproblems/constants/12.html) | The Beardwood–Halton–Hammersley constant | 0.6277 | 0.90304 |
 | [13](https://teorth.github.io/optimizationproblems/constants/13.html) | The arithmetic sums-differences constant | >1.77898 | 1.83333 |
 | [14](https://teorth.github.io/optimizationproblems/constants/14.html) | Smallest $n$ for which the value of $BB(n)$ is undecidable | 6 | 432 |
+| [15](https://teorth.github.io/optimizationproblems/constants/15.html) | Matrix multiplication exponent | 2 | < 2.3728596 |
 
 
 ## Maintainers
