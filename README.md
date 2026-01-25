@@ -20,13 +20,13 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | [8](https://teorth.github.io/optimizationproblems/constants/8.html) | Classical zero-free region constant | 0.755106 | 5.558691 |
 | [9](https://teorth.github.io/optimizationproblems/constants/9.html) | Shannon capacity of the 7-cycle | 3.2578 | 3.3177 |
 | [10](https://teorth.github.io/optimizationproblems/constants/10.html) | The real Grothendieck constant | 1.67696 | 1.782214 |
-| [11](https://teorth.github.io/optimizationproblems/constants/11.html) | The $L^1$ Poincaré constant on the Hamming cube | $\sqrt{\pi/2}$ | $\pi/2$ - 0.00013 |
+| [11](https://teorth.github.io/optimizationproblems/constants/11.html) | The $L^1$ Poincaré constant on the Hamming cube | $\sqrt{\pi/2} \approx 1.2533$ | $\pi/2 - 0.00013 \approx 1.5707$ |
 | [12](https://teorth.github.io/optimizationproblems/constants/12.html) | The Beardwood–Halton–Hammersley constant | 0.6277 | 0.90304 |
 | [13](https://teorth.github.io/optimizationproblems/constants/13.html) | The arithmetic sums-differences constant | >1.77898 | 1.83333 |
 | [14](https://teorth.github.io/optimizationproblems/constants/14.html) | Smallest $n$ for which the value of $BB(n)$ is undecidable | 6 | 432 |
 | [15](https://teorth.github.io/optimizationproblems/constants/15.html) | Matrix multiplication exponent | 2 | < 2.3728596 |
 | [16](https://teorth.github.io/optimizationproblems/constants/16.html) | Brezis–Gallouet–Wainger remainder constant on the 2D torus | $\frac{\beta + \pi}{\pi} \approx 1.82283$ | $\approx 2.15627$ |
-| [17](https://teorth.github.io/optimizationproblems/constants/17.html) | Exponential growth constant of diagonal Ramsey numbers | $\sqrt{2}$ | 3.7992027396 |
+| [17](https://teorth.github.io/optimizationproblems/constants/17.html) | Exponential growth constant of diagonal Ramsey numbers | $\sqrt{2} \approx 1.4142$ | 3.7992027396 |
 
 
 ## Maintainers
