@@ -21,9 +21,9 @@ If a constant has been worked out exactly, this site may not be the most appropr
 
 1. **Fork the repository** and create a new branch for your contribution.
 2. **Create a new file** in the `constants/` directory as `Nx.md`, where `N` and `x` are selected as follows:
-  - If the constant does not belong to any existing family of constants already recorded in the repository, set `N` to be the smallest positive integer not yet used for any constant in the repository, and `x` to be `a` (i.e., if the largest existing constant is $C_{19}$, set `N=20` and use the file `20a.md`).
-  - If the constant is part of an existing family associated to the number `N`, set `N` to be this number, and `x` to be the first unclaimed letter.  For instance, if the constant is in the `N=3` family, and the existing constants in that family are $C_{3a}$ and $C_{3b}$, set `x=c` and use the file `3c.md`).
-  - In the event of a collision due to near-simultaneous updates, I will ask for `Nx` to be updated and the file to be renamed.
+    - If the constant does not belong to any existing family of constants already recorded in the repository, set `N` to be the smallest positive integer not yet used for any constant in the repository, and `x` to be `a`.  For intsance, if the largest existing constant is $C_{19}$, set `N=20` and use the file `20a.md`.
+    - If the constant is part of an existing family associated to the number `N`, set `N` to be this number, and `x` to be the first unclaimed letter.  For instance, if the constant is in the `N=3` family, and the existing constants in that family are $C_{3a}$ and $C_{3b}$, set `x=c` and use the file `3c.md`.
+    - In the event of a collision due to near-simultaneous updates, I will ask for `Nx` to be updated and the file to be renamed.
 3. **Use the template**: Copy the structure from [template.md](template.md).
 4. **Fill in sections**:
    - Provide a clear definition of the constant (call it $C_{Nx}$, or $C_N$ if $x=a$, but you can also note other common names for it in the literature).
@@ -41,9 +41,7 @@ If a constant has been worked out exactly, this site may not be the most appropr
 
 ## The constant numbering system
 
-Each constant will be assigned a number $N$, indicating the family of constants it belongs to, and a letter $x$ to indicate its assigned label within that family, with $x$ defaulting to "a"; the constant will then be labeled $C_{Nx}$, with the convention that $C_{Na}$ can be abbreviated to $C_N$ (which we will do if there is only one constant in this family recorded in the repository).
-
-Barring exceptional circumstances, we will try to keep the number and letter assigned to a constant fixed over time, to allow for stable external references to such constants.  (This is why we store a new constant $C_N = C_{Na}$ in `Na.md` rather than `N.md`: when further constants in this family are introduced, the file does not need to be renamed.)
+Each constant will be assigned a number $N$, indicating the family of constants it belongs to, and a letter $x$ to indicate its assigned label within that family, with $x$ defaulting to "a"; the constant will then be labeled $C_{Nx}$, and stored in the file `Nx.md`.  If a family has only one constant in it, one can abbreviate $C_{Na}$ as $C_N$, but we will keep the filename as `Na.md` rather than `N.md` so that the filename remains stable in the event that new constants in this family are added to the repository.  This is so that external references to these files remain static.
 
 
 ## LaTeX rendering issues
