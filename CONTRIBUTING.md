@@ -36,6 +36,11 @@ If a constant has been worked out exactly, this site may not be the most appropr
    - Update the bounds section with new values, with at least one citation or reference.
 3. **Submit a pull request**
 
+## LaTeX rendering issues
+
+Due to the way Markdown is converted to HTML on this site, underscores in LaTeX math mode need to be escaped with backslashes (i.e., use `\_` instead of `_`), or else they may be interpreted incorrectly as italicization.  For similar reasons, pipes `|` should be avoided; one can use
+`\lvert` and `\rvert` instead.
+
 ## AI use policy
 
 Use of AI to help prepare submissions is permitted, so long as this is noted in the submission text, and that all references and other information provided by the AI are reviewed and verified by the human contributor.  Minor uses of AI, such as spellcheck or autocomplete, do not need to be disclosed.
